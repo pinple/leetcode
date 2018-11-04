@@ -21,6 +21,7 @@
 输出: 0
 """
 
+
 class Solution(object):
     def searchInsert(self, nums, target):
         """
