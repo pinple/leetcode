@@ -34,3 +34,23 @@
 | [112.路径总和](https://leetcode-cn.com/problems/path-sum)    | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/tree/path-sum.py) |
 | [118.杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/pascals-triangle.py) |
 | [119.杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/pascals-triangle-ii.py) |
+| [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/array/best-time-to-buy-and-sell-stock.py) |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+|                                                              |      |                                                              |
+
