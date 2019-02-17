@@ -35,22 +35,33 @@
 | [118.杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/pascals-triangle.py) |
 | [119.杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/pascals-triangle-ii.py) |
 | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/array/best-time-to-buy-and-sell-stock.py) |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
-|                                                              |      |                                                              |
+| [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/array/best-time-to-buy-and-sell-stock-ii.py) |
+| [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/string/valid-palindrome.py) |
+| [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/bit-manipulation/single-number.py) |
+| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/linkedlist/linked-list-cycle.py) |
+| [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/stack/min-stack.py) |
+| [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/linkedlist/intersection-of-two-linked-lists.py) |
+| [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/array/two-sum-ii-input-array-is-sorted.py) |
+| [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/excel-sheet-column-title.py) |
+| [169. 求众数](https://leetcode-cn.com/problems/majority-element/) | 简单 | [python](https://leetcode-cn.com/problems/majority-element/) |
+| [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/excel-sheet-column-number.py) |
+| [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/factorial-trailing-zeroes.py) |
+| [175. 组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/combine-two-tables.sql) |
+| [176. 第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/second-highest-salary.sql) |
+| [181. 超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/employees-earning-more-than-their-managers.sql) |
+| [182. 查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/duplicate-email.sql) |
+| [183. 从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/customers-who-never-order.sql) |
+| [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/array/rotate-array.py) |
+| [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/bit-manipulation/reverse-bits.py) |
+| [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/bit-manipulation/number-of-1-bits.py) |
+| [193. 有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/) | 简单 | [shell](https://github.com/Neulana/leetcode/blob/master/shell/valid-phone-numbers.sh) |
+| [195. 第十行](https://leetcode-cn.com/problems/tenth-line/)  | 简单 | [shell](https://github.com/Neulana/leetcode/blob/master/shell/tenth-line.sh) |
+| [196. 删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/delete-duplicate-emails.sql) |
+| [197. 上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | 简单 | [sql](https://github.com/Neulana/leetcode/blob/master/SQL/rising-temperature.sql) |
+| [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/dp/house-robber.py) |
+| [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/happy-number.py) |
+| [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/linkedlist/remove-linked-list-elements.py) |
+| [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) | 简单 | [python](https://github.com/Neulana/leetcode/blob/master/mathematics/count-primes.py) |
+| [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 中等 | [python](https://github.com/Neulana/leetcode/blob/master/dp/kth-largest-element-in-an-array.py) |
 |                                                              |      |                                                              |
 
