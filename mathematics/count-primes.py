@@ -35,8 +35,4 @@ class Solution(object):
         #     if dp[i] == 1:
         #         print i + 1
 
-<<<<<<< HEAD
         return sum(dp)
-=======
-        return sum(dp)
->>>>>>> 8b2388028a3f58cd820187080f3d4d262ef5ed1b
